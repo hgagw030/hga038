@@ -41,33 +41,34 @@
 
 
 
+
 <!-- NEWS_START -->
 
 
-# ⚽ 今日足球新聞
+# ⚽ 今日体育新闻
 
 
 更新时间：
 
-2026-07-21 10:08:11
+2026-07-21 22:26:59
 
 
 
 
-## 1. Bournemouth midfielder Scott rejects new contract
+## 1. Chelsea sign £117m Rogers - what will he bring?
 
 
-Bournemouth midfielder Alex Scott rejects a new contract amid growing Premier League interest in the England international.
+Chelsea's £117m move for Aston Villa midfielder Morgan Rogers is a genuine transfer window shock - so how did they do it and what does it mean for the rest of the squad?
 
 
 ---
 
 
 
-## 2. Fifa opens investigation into Argentina post-final trouble - what happens next?
+## 2. Consortium in talks to buy Liverpool minority stake
 
 
-Argentina will face an investigation into the ugly scenes at the end of the World Cup final, Fifa has confirmed.
+A consortium led by British-Indian millionaire businessman Amit Bhatia expresses an interest in buying a minority stake in Liverpool.
 
 
 ---
