@@ -41,35 +41,43 @@
 
 
 
-
 <!-- NEWS_START -->
-
 
 # ⚽ 今日体育新闻
 
+> 每天自动采集最新中文体育资讯（Google News 聚合）
 
-更新时间：
-
-2026-07-21 22:26:59
-
-
-
-
-## 1. Chelsea sign £117m Rogers - what will he bring?
-
-
-Chelsea's £117m move for Aston Villa midfielder Morgan Rogers is a genuine transfer window shock - so how did they do it and what does it mean for the rest of the squad?
-
+🕒 **更新时间：2026-07-22 06:44:13（北京时间）**
 
 ---
 
+## 1. 《功夫女足》成功对国产女性体育电影有何意义？ - 新浪网
 
+《功夫女足》成功对国产女性体育电影有何意义？ - 新浪网。本条资讯来自最新体育新闻动态，内容涵盖足球、篮球、国际赛事等热门体育资讯，供广大体育爱好者及时了解最新赛事信息。
 
-## 2. Consortium in talks to buy Liverpool minority stake
+---
 
+## 2. NBA官方宣布伦德博格获夏联赛MVP同时入选一阵：火箭桑顿意外落选 - 手机网易网
 
-A consortium led by British-Indian millionaire businessman Amit Bhatia expresses an interest in buying a minority stake in Liverpool.
+NBA官方宣布伦德博格获夏联赛MVP同时入选一阵：火箭桑顿意外落选 - 手机网易网。本条资讯来自最新体育新闻动态，内容涵盖足球、篮球、国际赛事等热门体育资讯，供广大体育爱好者及时了解最新赛事信息。
 
+---
+
+## 3. 在这项大赛颁奖礼上，青少年体育舞蹈“艺体融合”发展计划启动 - 搜狐网
+
+在这项大赛颁奖礼上，青少年体育舞蹈“艺体融合”发展计划启动 - 搜狐网。本条资讯来自最新体育新闻动态，内容涵盖足球、篮球、国际赛事等热门体育资讯，供广大体育爱好者及时了解最新赛事信息。
+
+---
+
+## 4. 国足排名91位跌至谷底？青训新星能否带中国男足涅槃重生 - Sina Sports
+
+国足排名91位跌至谷底？青训新星能否带中国男足涅槃重生 - Sina Sports。本条资讯来自最新体育新闻动态，内容涵盖足球、篮球、国际赛事等热门体育资讯，供广大体育爱好者及时了解最新赛事信息。
+
+---
+
+## 5. 足坛新秩序诞生！好体育携手克洛德·马克莱莱解析，世界杯四大豪门齐聚四强 - Sina Sports
+
+足坛新秩序诞生！好体育携手克洛德·马克莱莱解析，世界杯四大豪门齐聚四强 Sina Sports
 
 ---
 
